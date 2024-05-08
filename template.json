@@ -457,7 +457,7 @@
                 },
                 "osProfile": {
                     "computerName": "[parameters('virtualMachines_CoreServicesVM_name')]",
-                    "adminUsername": "zeeshan",
+                    "adminUsername": "testuser",
                     "windowsConfiguration": {
                         "provisionVMAgent": true,
                         "enableAutomaticUpdates": true,
@@ -531,7 +531,7 @@
                 },
                 "osProfile": {
                     "computerName": "[parameters('virtualMachines_ManufacturingVM_name')]",
-                    "adminUsername": "zeeshan",
+                    "adminUsername": "testuser",
                     "windowsConfiguration": {
                         "provisionVMAgent": true,
                         "enableAutomaticUpdates": true,
