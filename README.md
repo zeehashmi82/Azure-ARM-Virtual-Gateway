@@ -1,5 +1,5 @@
 # Create and configure a virtual network gateway
-# In this exercise you will configure a virtual network gateway to connect the Contoso Core Services VNet and Manufacturing VNet.
+ In this exercise you will configure a virtual network gateway to connect the Contoso Core Services VNet and Manufacturing VNet.
 
 
 ![image](https://github.com/zeehashmi82/Azure-ARM-Virtual-Gateway/assets/91518142/d4d79a2f-70f7-4662-962b-b87ab62ad5ea)
