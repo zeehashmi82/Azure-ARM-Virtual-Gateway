@@ -1,0 +1,72 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_CoreServicesVM_name": {
+            "value": null
+        },
+        "virtualMachines_ManufacturingVM_name": {
+            "value": null
+        },
+        "virtualNetworks_CoreServicesVnet_name": {
+            "value": null
+        },
+        "virtualNetworks_ManufacturingVnet_name": {
+            "value": null
+        },
+        "publicIPAddresses_CoreServicesVM_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_ManufacturingVM_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_CoreServicesVMip667_name": {
+            "value": null
+        },
+        "networkInterfaces_coreservicesvm214_z1_name": {
+            "value": null
+        },
+        "networkInterfaces_coreservicesvm817_z1_name": {
+            "value": null
+        },
+        "publicIPAddresses_ManufacturingVMip834_name": {
+            "value": null
+        },
+        "networkInterfaces_manufacturingvm245_z3_name": {
+            "value": null
+        },
+        "networkInterfaces_manufacturingvm735_z3_name": {
+            "value": null
+        },
+        "networkSecurityGroups_CoreServicesVM_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_ManufacturingVM_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_CoreServicesVMnsg869_name": {
+            "value": null
+        },
+        "connections_CoreServiceGW_toManufacturingGW_name": {
+            "value": null
+        },
+        "networkSecurityGroups_ManufacturingVMnsg358_name": {
+            "value": null
+        },
+        "publicIPAddresses_CoreServicesVnetGateway_ip_name": {
+            "value": null
+        },
+        "connections_ManufacturingGw_to_CoreServicesGW_name": {
+            "value": null
+        },
+        "publicIPAddresses_ManufacturingVnetGateway_IP_name": {
+            "value": null
+        },
+        "virtualNetworkGateways_CoreServicesVnetGateway_name": {
+            "value": null
+        },
+        "virtualNetworkGateways_ManufacturingVnetGateway_name": {
+            "value": null
+        }
+    }
+}
